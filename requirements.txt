@@ -1,1 +1,8 @@
-
+pandas==2.3.3
+numpy==2.3.4
+matplotlib==3.10.7
+seaborn==0.13.2
+scikit-learn==1.7.2
+hdbscan==0.8.41
+gensim==4.4.0
+scipy==1.16.3
